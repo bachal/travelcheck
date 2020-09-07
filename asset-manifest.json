@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/travelcheck/static/css/main.6c8554a5.chunk.css",
+    "main.js": "/travelcheck/static/js/main.134758b3.chunk.js",
+    "main.js.map": "/travelcheck/static/js/main.134758b3.chunk.js.map",
+    "runtime-main.js": "/travelcheck/static/js/runtime-main.2d188706.js",
+    "runtime-main.js.map": "/travelcheck/static/js/runtime-main.2d188706.js.map",
+    "static/css/2.db6f3515.chunk.css": "/travelcheck/static/css/2.db6f3515.chunk.css",
+    "static/js/2.335bfb48.chunk.js": "/travelcheck/static/js/2.335bfb48.chunk.js",
+    "static/js/2.335bfb48.chunk.js.map": "/travelcheck/static/js/2.335bfb48.chunk.js.map",
+    "index.html": "/travelcheck/index.html",
+    "precache-manifest.c8e2f9b6d5b19e74e404a3628c7a0530.js": "/travelcheck/precache-manifest.c8e2f9b6d5b19e74e404a3628c7a0530.js",
+    "service-worker.js": "/travelcheck/service-worker.js",
+    "static/css/2.db6f3515.chunk.css.map": "/travelcheck/static/css/2.db6f3515.chunk.css.map",
+    "static/css/main.6c8554a5.chunk.css.map": "/travelcheck/static/css/main.6c8554a5.chunk.css.map",
+    "static/js/2.335bfb48.chunk.js.LICENSE.txt": "/travelcheck/static/js/2.335bfb48.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/travelcheck/static/media/logo.5d5d9eef.svg",
+    "static/media/safari.jpg": "/travelcheck/static/media/safari.21763f30.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d188706.js",
+    "static/css/2.db6f3515.chunk.css",
+    "static/js/2.335bfb48.chunk.js",
+    "static/css/main.6c8554a5.chunk.css",
+    "static/js/main.134758b3.chunk.js"
+  ]
+}
